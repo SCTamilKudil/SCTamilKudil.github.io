@@ -1,12 +1,16 @@
 :root {
   --surface-a:#ffffff;
   --surface-b:#fafafa;
-  --surface-c:rgba(0,0,0,.04);
-  --surface-d:rgba(0,0,0,.12);
+  --surface-c:
+  rgba(0,0,0,.04);
+  --surface-d:
+  rgba(0,0,0,.12);
   --surface-e:#ffffff;
   --surface-f:#ffffff;
-  --text-color:rgba(0, 0, 0, 0.87);
-  --text-color-secondary:rgba(0, 0, 0, 0.6);
+  --text-color:
+  rgba(0, 0, 0, 0.87);
+  --text-color-secondary:
+  rgba(0, 0, 0, 0.6);
   --primary-color:#3F51B5;
   --primary-color-text:#ffffff;
   --font-family:Roboto, Helvetica Neue Light, Helvetica Neue, Helvetica, Arial, Lucida Grande, sans-serif;
@@ -31,16 +35,19 @@
   --gray-700: #616161;
   --gray-800: #424242;
   --gray-900: #212121;
-  --content-padding:1rem;
+  /* --content-padding:1rem; */
   --inline-spacing:0.5rem;
   --border-radius:4px;
   --surface-ground:#fafafa;
   --surface-section:#ffffff;
   --surface-card:#ffffff;
   --surface-overlay:#ffffff;
-  --surface-border:rgba(0,0,0,.12);
-  --surface-hover:rgba(0,0,0,.04);
-  --maskbg: rgba(0, 0, 0, 0.32);
+  --surface-border:
+  rgba(0,0,0,.12);
+  --surface-hover:
+  rgba(0,0,0,.04);
+  --maskbg:
+  rgba(0, 0, 0, 0.32);
   --focus-ring: none;
   color-scheme: light;
 }
